@@ -1,2 +1,7 @@
 git init-initialization of git
 git clone-exact copy ofremote repo
+git push-changes from local repo to remote repo
+git pull-changes from remote repo to local workspace
+git add -A-addind changes to stagging area
+git committ -m "message"- to transfer changes in staging area tolocal repo
+git status - to list all untracked files
